@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ガジェットやエンタメを中心に話すポッドキャスト番組です。
+情報の大海から井戸に流れ込んできたものを楽しみましょう。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+感想は [#inonakafm](https://twitter.com/search?q=%23inonakafm) でのツイートをお待ちしております。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+また、当番組ではメッセージを募集しています。
 
-
-[jekyll-organization]: https://github.com/jekyll
+[メッセージ投稿フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfS_5MQhYSfiOEsv29OEpE495ZQv_ZPiVbuMBfXOq8FqJHxiA/viewform)
