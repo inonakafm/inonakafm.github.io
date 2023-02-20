@@ -1,29 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Podcast準備中。"
 date:   2023-02-21 05:58:42 +0900
-categories: jekyll update
+categories: podcast update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Podcastを始めてみたいと思い立ち、準備を進めています。
 
-`YEAR-MONTH-DAY-title.MARKUP`
+名前は「inonaka.fm」。ガジェットやエンタメを中心に話す番組です。
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+ひとまずプラットフォームはAnchorを使ってコンテンツをホストしようと思っています。
+GitHub Pagesを立ち上げたのは、音声以外のこと（たとえばこの準備中という情報）を載せておく場所も確保することを目的としました。
 
-Jekyll also offers powerful support for code snippets:
+---
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+始めるにあたって、中身よりまず形式とかを考えてしまう所が職業病な気がする。
+たとえばハッシュタグを考えておこうとか、メッセージフォームを用意してみようとか、再利用が前提になりそうなものから詰めていきたくなる。
