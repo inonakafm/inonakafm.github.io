@@ -25,14 +25,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   情報の大海から井戸に流れ込んできたものを楽しみましょう。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://inonakafm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Yajamon
-github_username:  yajamon
 
 # Build settings
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+minima:
+  social_links:
+    - { platform: twitter, user_url: "https://twitter.com/Yajamon" }
+    - { platform: github, user_url: "https://github.com/yajamon" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
