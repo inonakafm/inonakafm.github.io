@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<iframe src="https://anchor.fm/yajamon/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/inonakafm/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 感想は [#inonakafm](https://twitter.com/search?q=%23inonakafm) でのツイートをお待ちしております。
 
